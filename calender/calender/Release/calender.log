@@ -1,0 +1,8 @@
+﻿  main.c
+  test.c
+c:\users\melchizedek\desktop\숙제\calender\calender\test.c(124): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\melchizedek\desktop\숙제\calender\calender\test.c(173): warning C4101: 'inheritSat' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  calender.vcxproj -> C:\Users\Melchizedek\Desktop\숙제\calender\Release\calender.exe
